@@ -30,13 +30,3 @@ Profile Cards/
 ├── package.json
 ├── vite.config.js
 └── README.md
-## 📸 Overview
-## 📸 Overview
-
-<img src="./src/assets/overview.png" alt="Project Overview" width="600"/>
-
-![Project Overview](./src/assets/overveiw.png)
-## 📸 Overview
-
-![Project Overview](./Profile%20Cards/src/assets/overveiw.png)
-
