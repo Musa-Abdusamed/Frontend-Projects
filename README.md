@@ -38,5 +38,5 @@ Profile Cards/
 ![Project Overview](./src/assets/overveiw.png)
 ## 📸 Overview
 
-![Project Overview](./src/assets/overveiw.png)
+![Project Overview](./Profile%20Cards/src/assets/overveiw.png)
 
