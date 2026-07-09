@@ -33,7 +33,7 @@ Profile Cards/
 ## 📸 Overview
 ## 📸 Overview
 
-<img src="./src/assets/overveiw.png" alt="Project Overview" width="600"/>
+<img src="./src/assets/overview.png" alt="Project Overview" width="600"/>
 
 ![Project Overview](./src/assets/overveiw.png)
 ## 📸 Overview
