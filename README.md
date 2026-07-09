@@ -33,3 +33,4 @@ Profile Cards/
 ## 📸 Overview
 
 ![Project Overview](./src/assets/overveiw.png)
+![Project Overview](./src/assets/overview.png)
