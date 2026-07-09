@@ -32,4 +32,4 @@ Profile Cards/
 └── README.md
 ## 📸 Overview
 
-![Project Overview](./src/assets/overview.png)
+![Project Overview](./src/assets/overveiw.png)
