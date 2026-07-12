@@ -224,7 +224,7 @@ Possible improvements:
 **Musa Abdusamed**
 
 GitHub:
-🔗 Add your GitHub profile link here
+🔗 https://github.com/Musa-Abdusamed
 
 ---
 
